@@ -60,3 +60,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#sound files
+*.wav
+Content/Music/*
